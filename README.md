@@ -4,14 +4,14 @@
 
 - **Team Name:**Aivana
 - **Team Members & Roles:**
-  - **Harsha** – Team Lead & UX Designer  
+  - **Chandra Harsha** – Team Lead & UX Designer  
   - **Varshini** – AI Engineer  
   - **Sofia** – Frontend Developer  
   - **likitha** – Documentation & Testing
 
 ### Individual Contributions:
 
-- **Harsha:** Led team coordination, designed user journey and interface flow, oversaw deployment, and managed user feedback collection.
+- **Chandra Harsha:** Led team coordination, designed user journey and interface flow, oversaw deployment, and managed user feedback collection.
 - **Varshini:** Implemented AI integration, built prompt templates for internship recommendation and resume generation, handled API calls.
 - **Sofia:** Developed and styled the Streamlit frontend, including input forms, layout, responsiveness, and Hugging Face deployment.
 - **likitha:** Created detailed documentation (`README.md`, `REPORT.md`), organized code structure, conducted manual and user testing, collected and compiled feedback.
@@ -173,8 +173,8 @@
 ## 3. Live Application
 
 **Hugging Face Space:**  
-[https://huggingface.co/spaces/YourHuggingFaceAppLink](https://huggingface.co/spaces/YourHuggingFaceAppLink)  
-<!-- TODO: Replace with actual Hugging Face app link -->
+[https://huggingface.co/spaces/chandraharsha/Internmate](https://huggingface.co/spaces/chandraharsha/Internmate)  
+
 
 ---
 
