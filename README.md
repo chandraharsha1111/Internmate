@@ -164,26 +164,3 @@
 
 ---
 
-## 2. Code Repository
-
-**Code Repository Link:** [https://code.swecha.org/YourRepoLinkHere](https://code.swecha.org/YourRepoLinkHere)  
-<!-- TODO: Replace with actual repo link -->
-
----
-
-## 3. Live Application
-
-**Hugging Face Space:**  
-[https://huggingface.co/spaces/chandraharsha/Internmate](https://huggingface.co/spaces/chandraharsha/Internmate)  
-
-
----
-
-## 4. Demo Video
-
-**Video Link:**  
-[https://drive.google.com/YourVideoLink](https://drive.google.com/YourVideoLink)  
-<!-- TODO: Replace with actual YouTube or Drive link -->
-
----
-
