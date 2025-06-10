@@ -163,4 +163,14 @@
   - Allow feedback via form + email + GitHub Issues
 
 ---
+## 2. Live Application Link
+- **Hugging Face Space:** [InternMate App](https://huggingface.co/spaces/chandraharsha/InternMate)
+**Streamlit:** [InternMate App](internmate-e6bwnwpsntylzxiqhnckeh
+.streamlit.app )
+
+## 3. Demo Video
+- **Video Link:** [https://youtu.be/QWqMntQv1Pg?feature=shared]
+
+---
+
 
