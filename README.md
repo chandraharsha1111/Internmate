@@ -70,7 +70,7 @@
 ## 1.4 Technical Architecture & Development
 
 - **Architecture Diagram:**  
-  ![Architecture]("C:\Users\chand\OneDrive\Desktop\WhatsApp Image 2025-06-10 at 08.22.09_6d500ce1.jpg")
+  ![Architecture](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-cc54-622f-a1cc-739b1a2bd803/raw?se=2025-06-10T03%3A51%3A46Z&sp=r&sv=2024-08-04&sr=b&scid=7f68cb14-7656-5a2f-b977-d657f2eac292&skoid=add8ee7d-5fc7-451e-b06e-a82b2276cf62&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-09T12%3A32%3A51Z&ske=2025-06-10T12%3A32%3A51Z&sks=b&skv=2024-08-04&sig=96WBaVTNWx9iH%2BxTZ/4mb33R1u2KqDcSWgsbXP8lOr4%3D)
 
 
 - **Technology Stack:**
