@@ -70,8 +70,8 @@
 ## 1.4 Technical Architecture & Development
 
 - **Architecture Diagram:**  
-  ![Architecture](![image](https://github.com/user-attachments/assets/e30e2c02-7545-4941-8c54-1e002ab2f54a)
-)
+  ![Architecture]("C:\Users\chand\OneDrive\Desktop\WhatsApp Image 2025-06-10 at 08.22.09_6d500ce1.jpg")
+
 
 - **Technology Stack:**
   - Python
