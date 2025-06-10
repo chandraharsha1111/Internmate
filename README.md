@@ -70,7 +70,8 @@
 ## 1.4 Technical Architecture & Development
 
 - **Architecture Diagram:**  
-  ![Architecture](https://via.placeholder.com/600x300.png?text=Upload+Diagram+URL+Here)
+  ![Architecture](![image](https://github.com/user-attachments/assets/e30e2c02-7545-4941-8c54-1e002ab2f54a)
+)
 
 - **Technology Stack:**
   - Python
